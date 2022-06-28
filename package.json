@@ -1,0 +1,21 @@
+{
+  "name": "line2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@line/bot-sdk": "^7.5.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "file-type": "^16.5.3",
+    "fs-extra": "^10.1.0",
+    "node-google-drive": "^1.1.2"
+  }
+}
