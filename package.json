@@ -1,6 +1,6 @@
 {
-  "name": "line2",
-  "version": "1.0.0",
+  "name": "line-to-google-drive",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
